@@ -15,3 +15,8 @@ Load the Walmart sales data into Tableau by connecting to the relevant data sour
 Open Tableau Desktop and navigate to the project folder to access the Tableau workbook (.twb).
 
 Start exploring the interactive dashboards and visualizations to gain insights into Walmart's sales data.
+
+## Disclaimer:
+This project is purely for educational and demonstrative purposes. The data used is for illustrative purposes only and does not represent real-world Walmart sales data.
+
+We hope you enjoy exploring and analyzing Walmart's sales data with Tableau! Happy data-driven insights! 📊🛍️
